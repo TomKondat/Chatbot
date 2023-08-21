@@ -1,5 +1,19 @@
 # Chatbot
 
-Your own personal chatBot integrated with ChatGPT.
-You can clone the project and add your openAI api key in line 4.
-Enjoy!
+### Your own personal assistant chatBot, integrated with ChatGPT.
+
+You can clone the project and add your openAI API key.
+
+### Technologies
+
+- Visual Studio Code
+- Python
+- openAI API
+
+---
+
+## My Info
+
+- [LinkedIn](https://www.linkedin.com/in/tom-kondat-3b72201b0/)
+- [GitHub](https://github.com/TomKondat)
+- [GitLab](https://gitlab.com/TomKondat)
